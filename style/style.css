@@ -154,7 +154,7 @@
     background: #04C2C9;
     text-decoration: none;
     color: #fff;
-    border: #04C2C9;
+    border: solid 2px #04C2C9;
     -webkit-transition: 500ms;
     -o-transition: 500ms;
     transition: 500ms;
